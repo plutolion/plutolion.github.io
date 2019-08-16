@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[picture test]]></title>
+    <url>%2F2019%2F08%2F16%2Fpicture-test%2F</url>
+    <content type="text"><![CDATA[内详 希望内外都可以正常显示逮捕君。]]></content>
+      <tags>
+        <tag>test</tag>
+        <tag>测试</tag>
+        <tag>試験</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[test]]></title>
     <url>%2F2019%2F08%2F16%2Ftest%2F</url>
     <content type="text"><![CDATA[-文本内详- 先试试格式和编辑器 感觉这个还可以 但是界面字体比较丑 一级标题二级标题三级标题四级标题五级标题六级标题BGM more about: yoko 列表1 列表2 列表3 1~ 2~ 3~ 1 2 3 o1 02 03]]></content>
       <tags>
-        <tag>测试</tag>
         <tag>test</tag>
+        <tag>测试</tag>
         <tag>試験</tag>
       </tags>
   </entry>
