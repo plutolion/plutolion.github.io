@@ -680,7 +680,7 @@
 
   <script type="text/javascript">
     var GUEST = ['nick','mail','link'];
-    var guest = 'nick,mail';
+    var guest = 'nick';
     guest = guest.split(',').filter(item=>{
       return GUEST.indexOf(item)>-1;
     });
@@ -693,6 +693,7 @@
         lang:'en' ,
         placeholder: 'Talk to me',
         avatar:'mm',
+        avatar:'hide',
         guest_info:guest,
         pageSize:'10' || 10,
     });
